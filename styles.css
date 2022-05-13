@@ -1,0 +1,229 @@
+body {
+    background-color: rgba(255, 255, 255, 0.226);
+    margin: 0 0 0 0;
+  }
+  h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 3px;
+    padding-left: 50%;
+    padding-right: 50%;
+    width:100vw;
+    padding: 45px;
+    background: orange;
+    position: relative;
+    margin: 0 0 0 0;
+
+  }
+  p {
+    color: red;
+  }
+  .container {
+    position: relative;
+    width: 50%;
+  }
+
+  #infobox {
+      width: 50vw;
+      position: absolute;
+      top: 52%;
+      left: 135%;
+      font-size: 24px;
+  }
+
+  #pngbox {
+      width: 50vw;
+  }
+
+  table {
+      width: 100vw;
+  }
+
+  body {
+      overflow:hidden;
+  }
+  
+  /* Make the image responsive */
+ td img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style the button and place it in the middle of the container/image */
+  .container #btn {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn:hover {
+    background-color: black;
+  }
+  .container #btn2 {
+    position: absolute;
+    top: 32%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn2:hover {
+    background-color: black;
+  }
+
+  .container #btn3 {
+    position: absolute;
+    top: 35%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn3:hover {
+    background-color: black;
+  }
+
+  .container #btn4 {
+    position: absolute;
+    top: 28%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn4:hover {
+    background-color: black;
+  }
+
+  .container #btn5 {
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn5:hover {
+    background-color: black;
+  }
+
+  .container #btn6 {
+    position: absolute;
+    top: 32%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn6:hover {
+    background-color: black;
+  }
+
+  .container #btn7 {
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn7:hover {
+    background-color: black;
+  }
+
+  .container #btn8 {
+    position: absolute;
+    top: 36%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn8:hover {
+    background-color: black;
+  }
+
+  .container #btn9 {
+    position: absolute;
+    top: 42%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container #btn9:hover {
+    background-color: black;
+  }
+
+  #feedImg {
+      width: 25vw;
+      position: absolute;
+      top: 15.8%;
+      left: 61%;
+  }
